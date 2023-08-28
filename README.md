@@ -2,7 +2,7 @@
 This is an opencore configuration for a acer aspire a515-51-50RR
 
 
-Working:
+Tested and Working:
   -  Basic touchpad support, Advanced not working.
   -  USB Devices.
   -  Webcam/mic.
