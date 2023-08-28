@@ -16,7 +16,7 @@ Tested and Working:
   -  ACPI Sleep.
   -  Networking (INTEL WIFI CARDS ONLY).
 
-Untested // Should maybe Work:
+Untested // Could possibly Work:
   -  Airdrop.
   -  Bluetooth.
   -  SD Card reader.
