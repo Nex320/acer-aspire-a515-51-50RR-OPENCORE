@@ -26,7 +26,7 @@ Untested // Should maybe Work:
   -  Normal SATA Drives (i ran a NVME drive)
 
 Extra Notes:
-  - You ***MUST*** use an intel wifi card or networking will not work at all, If your aspire does not have one it is possible to buy an intel replacement for cheep.
+  - You ***MUST*** use an intel wifi card or networking will not work at all, If your aspire does not have one it is possible to buy an intel replacement for cheap, The intel AC7265 is a good replacement for a decent price that works with this aspire. 
   - You must install the Heliport app after installing macos otherwise networking will most likely not work too.
   - This Opencore Config has ***only been tested with MacOS Ventura***, Run other versions at your own risk as you may have unwanted results.
   - You can really just watch any generic tutorial on how to hackintosh a pc with Ventura and just replace their configs with my config and it should work for your aspire.
