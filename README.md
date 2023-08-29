@@ -17,13 +17,15 @@ Tested and Working:
   -  Networking (INTEL WIFI CARDS ONLY).
 
 Untested // Could possibly Work:
-  -  Airdrop.
-  -  Bluetooth.
   -  SD Card reader.
   -  Headphone Jack.
   -  Secondary Internal Drive
   -  16GB Of ram or higher
   -  Normal SATA Drives (i ran a NVME drive)
+
+Not Working:
+  -  Bluetooth.
+  -  Airdrop.
 
 Extra Notes:
   - You ***MUST*** use an intel wifi card or networking will not work at all, If your aspire does not have one it is possible to buy an intel replacement for cheap, The intel AC7265 is a good replacement for a decent price that works with this aspire. 
